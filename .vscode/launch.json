@@ -1,0 +1,18 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+
+        {
+            "name": "Streanlit",
+            "type": "python",
+            "request": "launch",
+            "program": "resume_ranking.py",
+            "console": "integratedTerminal",
+            "justMyCode": true,
+            "args": ["run","main.py"]
+        }
+    ]
+}
